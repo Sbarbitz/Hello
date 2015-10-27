@@ -1,2 +1,2 @@
 # Hello
-test git hub, it sucks tbh
+test git hub
